@@ -1,0 +1,10 @@
+09:55:05 **** Incremental Build of configuration Debug for project 7seg ****
+make -j8 all 
+arm-none-eabi-size  7seg.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5932	     24	   1648	   7604	   1db4	7seg.elf
+Finished building: default.size.stdout
+ 
+
+09:55:05 Build Finished. 0 errors, 0 warnings. (took 292ms)
+

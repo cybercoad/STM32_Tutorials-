@@ -1,0 +1,10 @@
+15:02:09 **** Incremental Build of configuration Debug for project ADCDMA ****
+make -j8 all 
+arm-none-eabi-size  ADCDMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12056	     92	   2020	  14168	   3758	ADCDMA.elf
+Finished building: default.size.stdout
+ 
+
+15:02:09 Build Finished. 0 errors, 0 warnings. (took 330ms)
+

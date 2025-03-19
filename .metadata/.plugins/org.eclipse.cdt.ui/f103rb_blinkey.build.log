@@ -1,0 +1,10 @@
+14:25:41 **** Incremental Build of configuration Debug for project f103rb_blinkey ****
+make -j8 all 
+arm-none-eabi-size  f103rb_blinkey.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5680	     12	   1644	   7336	   1ca8	f103rb_blinkey.elf
+Finished building: default.size.stdout
+ 
+
+14:25:41 Build Finished. 0 errors, 0 warnings. (took 261ms)
+

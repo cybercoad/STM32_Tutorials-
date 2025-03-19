@@ -1,0 +1,10 @@
+20:47:47 **** Incremental Build of configuration Debug for project UserPushButten ****
+make -j8 all 
+arm-none-eabi-size  UserPushButten.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5724	     12	   1644	   7380	   1cd4	UserPushButten.elf
+Finished building: default.size.stdout
+ 
+
+20:47:48 Build Finished. 0 errors, 0 warnings. (took 288ms)
+

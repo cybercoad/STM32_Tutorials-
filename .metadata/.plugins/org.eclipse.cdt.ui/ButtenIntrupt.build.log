@@ -1,0 +1,10 @@
+21:33:10 **** Build of configuration Debug for project ButtenIntrupt ****
+make -j8 all 
+arm-none-eabi-size  ButtenIntrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5788	     12	   1644	   7444	   1d14	ButtenIntrupt.elf
+Finished building: default.size.stdout
+ 
+
+21:33:36 Build Finished. 0 errors, 0 warnings. (took 26s.98ms)
+

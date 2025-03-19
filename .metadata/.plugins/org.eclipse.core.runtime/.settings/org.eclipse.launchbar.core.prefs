@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:f103rb_blinkey,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UserPushButten Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ButtenIntrupt Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:7seg,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Seven_seg Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001HelloWorld/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:7seg/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADCDMA/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ButtenIntrupt\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Rtos_blinkey/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Seven_seg\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:UserPushButten\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:f103rb_blinkey/activeLaunchMode=debug
